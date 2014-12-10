@@ -13,7 +13,7 @@
 <br />設定完以後的初始畫面
 
 <br />![Save](http://i.imgur.com/3y2KF48.png)
-<br />打個程式後存檔(Ctrl+S)，檔名(Filename)打XXXX.c (XXXX可以隨便打)
+<br />打個程式(↓)後存檔(Ctrl+S)，檔名(Filename)打XXXX.c (XXXX可以隨便打)
 <br />
 ```
 #include <stdio.h>

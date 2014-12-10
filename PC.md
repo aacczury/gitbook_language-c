@@ -20,11 +20,11 @@
 <br />**進階系統設定**->**環境變數**
 
 <br />![Path](http://i.imgur.com/qpppTed.png)
-<br />下面**系統變數**的地方找到**Path**->**編輯**->把**C:\MinGW\bin;**貼在最前面(每個之間要用;隔開)->**確定**->**確定**->**確定**
+<br />下面**系統變數**的地方找到**Path**->**編輯**->把 **C:\MinGW\bin;** 貼在最前面->**確定**->**確定**->**確定**
 
 <br />![cmd](http://i.imgur.com/FNQX9iJ.png)
-<br />按**Win+R**叫出執行(或是去開始慢慢找)->打**cmd**->**確定**
+<br />按**Win+R**叫出執行(或是去**開始**慢慢找)->打**cmd**->**確定**
 
 <br />![gcc](http://i.imgur.com/5uKq5mS.png)
-<br />打gcc->如果有跑出gcc: fatal error....就是安裝成功了
+<br />打gcc，如果有跑出gcc: fatal error....就是安裝成功了
 

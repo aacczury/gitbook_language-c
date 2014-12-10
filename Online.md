@@ -24,10 +24,7 @@ int main(){
 ```
 
 ![ls](http://i.imgur.com/VOjBbcH.png)
-
-在Terminal(終端機)的地方打ls，他會列出這個資料夾裡面有哪些檔案
-
-可以看到我們有四個資料夾(Applications, Backup, Documents, Web)
-
-兩個檔案(HelloWorld.c, README.md)
+<br />在Terminal(終端機)的地方打ls，他會列出這個資料夾裡面有哪些檔案
+<br />可以看到我們有四個資料夾(Applications, Backup, Documents, Web)
+<br />兩個檔案(HelloWorld.c, README.md)
 

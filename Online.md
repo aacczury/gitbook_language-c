@@ -29,3 +29,12 @@ int main(){
 <br />可以看到我們有四個資料夾(Applications, Backup, Documents, Web)
 <br />兩個檔案(HelloWorld.c, README.md)
 
+<br />![Compile](http://i.imgur.com/9nL5KIO.png)
+<br />輸入 gcc -o HelloWorld HelloWorld.c
+<br />編譯程式(Compile)，原本的.c檔是人類看得懂的語言(和一堆0跟1比起來)，要把它轉換成電腦看得懂的語言(一堆0跟1)
+<br />gcc: C語言的編譯器(Compiler) (白話講就是一種翻譯機)
+<br />gcc -o <執行檔的名字> <程式碼的名字>
+
+<br />![ls](http://i.imgur.com/Ibm2rMg.png)
+<br />可以看到多了一個HelloWorld的執行檔
+

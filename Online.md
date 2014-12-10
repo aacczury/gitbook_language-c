@@ -36,5 +36,9 @@ int main(){
 <br />gcc -o <執行檔的名字> <程式碼的名字>
 
 <br />![ls](http://i.imgur.com/Ibm2rMg.png)
-<br />可以看到多了一個HelloWorld的執行檔
+<br />ls後可以看到多了一個HelloWorld的執行檔
+
+<br />![run](http://i.imgur.com/b8eNSho.png)
+<br />打上./HelloWorld，執行HelloWorld這個程式 (./ 是現在這個資料夾的意思)
+<br />它就會印出Hello World了~
 

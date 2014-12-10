@@ -28,7 +28,7 @@ int main(){
 <br />在Terminal(終端機)的地方打ls，他會列出這個資料夾裡面有哪些檔案
 <br />可以看到我們有四個資料夾(Applications, Backup, Documents, Web)
 <br />兩個檔案(HelloWorld.c, README.md)
-<br />HelloWorld.c就是我們剛剛存的
+<br />HelloWorld.c就是我們剛剛存的(也有可能你取其他名字XD)
 
 <br />![Compile](http://i.imgur.com/9nL5KIO.png)
 <br />輸入 gcc -o HelloWorld HelloWorld.c

@@ -12,8 +12,16 @@ https://koding.com/
 ![Init](http://i.imgur.com/n15hatK.png)
 設定完以後的初始畫面
 
+![Save](http://i.imgur.com/3y2KF48.png)
+打個程式後存檔(Ctrl+S)
 ```
-int main()
+#include <stdio.h>
+
+int main(){
+    printf("Hello World\n");
+    return 0;
+}
 ```
 
-打個程式
+![ls](http://i.imgur.com/VOjBbcH.png)
+在Terminal(終端機)的地方打ls，他會列出這個資料夾裡面有哪些檔案

@@ -6,9 +6,9 @@
 <br />![Install](http://i.imgur.com/LvzdZ3m.png)
 <br />載好以後就開始安裝 Install->Continue->開始裝->Continue
 
-<br />![Install](http://i.imgur.com/vUcUo03.png)
-<br />跳出這個視窗後，點mingw32-gcc-g++前面的框框->選Mark for Installation
-<br />然後點左上角的Installation->Apply Changes->Apply->開始裝->Close
+<br />![Install](http://i.imgur.com/0u4LUAq.png)
+<br />跳出這個視窗後，點**mingw32-base**跟**mingw32-gcc-g++**前面的框框->選**Mark for Installation**
+<br />接著點左上角的**Installation**->**Apply Changes**->**Apply**->開始裝->**Close**
 
 <br />![bin](http://i.imgur.com/VThNL6U.png)
 <br />裝好以後再**C:\MinGW\bin**(如果沒改預設路徑的話)裡面就會長這樣
